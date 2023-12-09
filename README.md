@@ -8,7 +8,7 @@
   <a href="https://t.me/hyperwinhome" style="color:#5E00FF;">You can contact me in Telegram</a>
 </p>
 
-<details open>
+<details>
   <summary><h2>My best repositories i've ever created</h2></summary>
   <p align="left">
     <a href="https://github.com/HyperWinX/MCR.git"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HyperWinX&repo=MCR&theme=react&bg_color=1F222E&title_color=5E00FF&hide_border=true&icon_color=5E00FF&show_icons=false" alt="MCR"></a>
@@ -16,7 +16,7 @@
   </p>
 </details>
 
-<details open>
+<details>
 <summary><h2>Languages and instruments i've ever used</h2></summary>
   <h3>Programming languages</h3>
   <p>

@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=HyperWin&Font=Fira%20Code&center=true&width=440&height=45&color=5E00FF&Center=true&pause=1000&size=22" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Small+C+Coder&Font=Fira%20Code&center=true&width=440&height=45&color=5E00FF&Center=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Junior+C+Coder&Font=Fira%20Code&center=true&width=440&height=45&color=5E00FF&Center=true&pause=1000&size=22" />
 </p>
 <p align="center">
   <a href="https://t.me/hyperwinhome" style="color:#5E00FF;">You can contact me in Telegram</a>

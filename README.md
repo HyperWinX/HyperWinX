@@ -25,7 +25,7 @@ public:
   }
 
 private:
-  std::array<std::string_view> technologies;
+  std::array<std::string_view, 11> technologies;
   std::uint8_t age;
   std::string_view name;
 }

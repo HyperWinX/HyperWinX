@@ -22,12 +22,16 @@ public:
       "Gentoo Linux (Fedora Linux due to skill issues and lack of will power)",
       "LLVM"
     };
+    employed = true;
+    employer = "Integra Pro";
   }
 
 private:
   std::array<std::string_view, 11> technologies;
   std::uint8_t age;
-  std::string_view name;
+  std::string name;
+  bool employed;
+  std::string employer;
 }
 ```
 

@@ -19,15 +19,14 @@ public:
       "Git",
       "Ansible",
       "Kubernetes",
-      "Gentoo Linux (Fedora Linux due to skill issues and lack of will power)",
-      "LLVM"
+      "Gentoo Linux"
     };
     employed = true;
     employer = "Integra Pro";
   }
 
 private:
-  std::array<std::string_view, 11> technologies;
+  std::array<std::string_view, 10> technologies;
   std::uint8_t age;
   std::string name;
   bool employed;
